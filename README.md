@@ -9,5 +9,5 @@ Here are images showcasing the Dashboard:
 
 <img src="https://github.com/paweenachodpaseart/Data-Visualization4/blob/main/Supermarket%20Dashboard.png?raw=true" width="500" />
 
-[See more](https://lookerstudio.google.com/reporting/6b6f08ab-538d-42d8-8283-e90cd9518e26)
+[See more](https://github.com/paweenachodpaseart/Data-Visualization4/blob/main/Supermarket_Sale.twb)
 ### 🛠️ Tool: lookerstudio
