@@ -1,5 +1,5 @@
 # Data-Visualization
-Salary Analysis
+Supermarket Sales Dashboard
 
 ### 📌 Summary of Supermarket Sales Dashboard
 1.Total Number of Customers:
