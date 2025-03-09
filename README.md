@@ -1,38 +1,24 @@
 # Data-Visualization
 Supermarket Sales Dashboard
 
-### 📌 Summary of Supermarket Sales Dashboard
-1.Total Number of Customers:
-- There are 1,000 customers in total.
-  
-2.Customer Distribution by Gender:
-- Female: 50.10%
-- Male: 49.90%
-  
-3.Customer Distribution by Type:
-- Member: 50.10%
-- Normal: 49.90%
-  
-4.Weekly Sales Trend:
-- Sales show an increasing trend over time, with periodic highs and lows.
-  
-5.Revenue Distribution by City:
-- Revenue is distributed across three major cities: Naypyitaw, Yangon, and Mandalay.
-- Naypyitaw has the highest revenue, though not significantly different from the other two cities.
-  
-6.Customer Segmentation by Type and Payment Method:
-- Most Normal customers rarely use Credit Cards (13.90%) for payment.
-  
-7.Number of Customers by Product Category:
-- The product category with the highest number of customers is Fashion Accessories.
-- Followed by Food and Beverages and Electronic Accessories.
-  
-8.Number of Customers by Product Category and Gender:
-- In the Health and Beauty category, there are more male customers than female.
-- In other categories, female customers outnumber male customers.
-  
-### 📊 Insight:
-Most customers are Members and prefer to pay via Ewallet rather than other methods. Sales show a periodic growth trend, and the most popular product categories are Fashion and Food & Beverages 🍽️👗.
+### 📌 Project Overview
+This dashboard analyzes supermarket sales data, presenting key insights into customer behavior, revenue, and sales trends through easy-to-understand charts and visualizations.
+
+### Objectives of the Dashboard
+- Track the total number of customers – View the total number of customers and categorize them by gender and customer type (Member vs. Normal).
+- Analyze weekly sales trends – Identify periods of high and low sales each week.
+- Revenue distribution by city – Compare supermarket sales across different cities (Naypyitaw, Yangon, Mandalay).
+- Study customer payment behavior – Analyze the preferred payment methods based on customer type.
+- Examine product category popularity – Identify which product categories attract the most customers.
+- Compare customers by gender and product category – Determine which product categories are more popular among male and female customers.
+
+### Key Insights from the Dashboard
+- 📌 Most customers are Members, and they prefer using Ewallets over credit cards.
+- 📌 The top-selling product category is Fashion Accessories, followed by Food & Beverages.
+- 📌 Sales trends fluctuate, suggesting the need for strategic promotions during peak and low periods.
+- 📌 Naypyitaw has the highest revenue, though it is not significantly higher than Yangon and Mandalay.
+
+🔍 This dashboard helps supermarkets plan marketing strategies, optimize promotions, and better understand customer behavior. 🛒📊
 
 ### Images of the Dashboard
 
